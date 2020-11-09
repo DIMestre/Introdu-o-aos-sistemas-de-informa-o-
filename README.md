@@ -1,2 +1,1 @@
 # IntroducaoSistemasInformacao
-s
